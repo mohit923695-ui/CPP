@@ -4,8 +4,8 @@ int main(){
     int a = 4;       // build in data type   // single line comments 
     int b = 6;
     float pi = 3.14;
-    std::cout << "the value of a is " << a << " : the value of b is " << b;
-    cout << "the value of pi :" << pi;
+    std::cout << "the value of a is " << a << " \n the value of b is " << b;
+    cout << "\n the value of pi :" << pi;
     return 0;
 }
 
